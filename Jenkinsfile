@@ -1,6 +1,6 @@
 pipeline {
   agent { 
-  node2
+  nodes
   }
   
   environment {
