@@ -1,6 +1,6 @@
 pipeline {
   agent { 
-  nodes
+  label nodes
   }
   
   environment {
